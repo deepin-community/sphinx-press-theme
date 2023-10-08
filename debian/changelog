@@ -1,5 +1,13 @@
-template-repository (1.0-1) unstable; urgency=medium
+sphinx-press-theme (0.8.0-2) unstable; urgency=medium
 
-  * Initial release
+  [ lintian-brush ]
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Andrius Merkys <merkys@debian.org>  Wed, 24 Nov 2021 01:33:20 -0500
+
+sphinx-press-theme (0.8.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #996543)
+
+ -- Andrius Merkys <merkys@debian.org>  Fri, 15 Oct 2021 02:17:59 -0400

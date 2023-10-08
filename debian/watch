@@ -1,0 +1,4 @@
+version=4
+opts="filenamemangle=s%(?:.*?)?v?(\d[\d.]*)\.tar\.gz%sphinx-press-theme-$1.tar.gz%" \
+ https://github.com/schettino72/sphinx_press_theme/tags \
+ (?:.*?/)?v?(\d[\d.]*)\.tar\.gz
